@@ -9,3 +9,6 @@ Download all three files: index.html, eyes.css, and styles.css and then open the
 ### Roadmap
 Future improvement can include adding a ball that moves randomly on the page and the eyes will follow the ball. 
 Once the eyes follow the ball, it no longer follows the mouse. 
+
+### License
+MIT License
