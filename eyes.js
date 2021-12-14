@@ -6,6 +6,7 @@ document.onmousemove = (event) => {
   for (let i = 0; i < 2; i++) {
     balls[i].style.left = x;
     balls[i].style.top = y;
+    //ball follows the mouse
     balls[i].transform = 'translate(-' + x + ',-' + y + ')';
   }
 };
